@@ -29,6 +29,10 @@ function App() {
           <Home />
         </Route>
 
+        <Route path="/">
+          <Home />
+        </Route>
+
         <Route>
           <NotFound />
         </Route>
